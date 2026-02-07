@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 
-import Login from "./Pages/Login";
-import Home from "./Pages/Home";
-import Favorites from "./Pages/Favorites";
+import Login from "./pages/Login";
+import Home from "./pages/Home";
+import Favorites from "./pages/Favorites";
 import MovieDetails from "./pages/MovieDetails";
 import ProtectedRoute from "./components/ProtectedRoute";
 import PageWrapper from "./components/PageWrapper";
