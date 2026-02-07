@@ -3,7 +3,7 @@ import { AnimatePresence } from "framer-motion";
 
 import Login from "./Pages/Login";
 import Home from "./Pages/Home";
-import Favorites from "./pages/Favorites";
+import Favorites from "./Pages/Favorites";
 import MovieDetails from "./pages/MovieDetails";
 import ProtectedRoute from "./components/ProtectedRoute";
 import PageWrapper from "./components/PageWrapper";
